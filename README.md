@@ -1,7 +1,7 @@
 # million
 
-【百万英雄】【冲顶大会】在线答题辅助工具
-
+【百万英雄】【冲顶大会】在线答题辅助
+![](https://raw.githubusercontent.com/biofavor/million/master/s.gif)
 
 - === 思路 ===
 - 核心：判断何时出题，截取题目图像，OCR成文字，弹出百度搜索该文字。
@@ -16,3 +16,5 @@
 - 安装Total Control并连接手机，放置到如图的位置
 - 安装OCR pytesseract组件
 - 安装pyscreenshot组件
+_ 安装jieba 结巴分词组件
+
