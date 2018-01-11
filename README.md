@@ -18,5 +18,5 @@
 - 安装pyscreenshot组件
 - 安装jieba 结巴分词组件
 - 缺失模块pip install -i https://pypi.tuna.tsinghua.edu.cn/simple 模块名
-
+感兴趣的朋友，加我扣扣啦26231629
 ![](https://raw.githubusercontent.com/biofavor/million/master/872579128340594942.jpg)
